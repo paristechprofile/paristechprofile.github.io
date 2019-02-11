@@ -81,33 +81,37 @@ HTML was created mostly with bootstrap to provide basic structure and clean caro
 ```
 
 ```css
-sdfasd
+I think the most interesting thing was the smooth scroll functionality achieved with css rather than js. 
 
 ```
 
 ```js
-sfasdfdfadf asadf as fsf  sdf ddfad fadf adf asdf f
-dsfasd fa fas df d  d fas s asd as
+Lightbox was my most complex script but typed.js was the most interesting to me. 
 ```
 ## Features
+- my website features clean scrolls, pleasant styling, and a few js libraries to manage animations and effects.
 
 
 ## Big Wins & Challenges
   - I decided to use both bootstrap and minified. Bootstrap for a quick overall structure and minified for it's carousel. Which meant conflicting css and javascript. So I extracted only the css that directly affected the carousel structure. Then I found every instance of `carousel` in the javascript and changed it's class to `carousel1`to give it a unique class that wouldn't interfere with any other code.
 
+  After some consideration, I thought it best to remove the potentially conflicting libraries, to adhere to best practice
+
+  It was both easier and harder using bootstrap. It wasn't an easy process to design and implement a website that I would stand behind. I'm proud of the way it turned out.
+
 
 ## Unsolved Problems
+- Still learning how to submit emails via form. But email functionality wasn't an explicit deliverable, so I'd like to review that with the instructor.
 
 
 ## Code Snippets
-
+- I really like the way this particular part of the about me turned out:
+	<p >Recipient of the 2019 <a href="https://www.adobe.com/corporate-responsibility/education/digital-academy.html">
+        <strong>Adobe Digital Academy</strong></a> scholarship; a competitive software bootcamp and apprenticeship for 
+        exceptional minority talent across the nation.
+      <br>
+      <br>
+  
 ## Credit and License
-
-
-
-
-#### Deliverable
-
-
-## Additional Resources
-- 
+- lightbox - https://lokeshdhakar.com/projects/lightbox2/
+- typed - https://github.com/mattboldt/typed.js

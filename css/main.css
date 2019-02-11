@@ -1,12 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500);
 
-
+html {
+    scroll-behavior: smooth;
+  }
 *{
 	padding:0;
 	margin:0;
 	box-sizing: border-box;
 }
-
+body {
+    position: relative;
+  }
 .row{
 	justify-content: center;
 }
@@ -59,7 +63,7 @@ body{
 	padding: 5em;
 }
 .introText{
-	/*padding: 0em 10em;*/
+    padding: 0em 2.5em;
 }
 
 span{
@@ -176,7 +180,7 @@ h5, h6{
 }
 #typed{
 	color: #6C656C;
-	letter-spacing: .2rem;
+	letter-spacing: .1rem;
 }
 
 .links{
@@ -263,7 +267,7 @@ button {
 	font-size: .82rem;
 	letter-spacing: 1.2px;
 	letter-spacing: .08rem;
-	transition: all .3s ease-in-out;
+	transition: all .3s ease;
 	text-align: center;
 }
 
@@ -322,10 +326,11 @@ button:hover {
 	color: white;
 	text-align: center;
 	height: 5em;
-	padding-top: 5em;
+    padding-top: 5em;
+    padding-bottom: 2em;
 }
 .fab{
-	padding: 1.2em;
+    padding: 1.2em;
 }
 
 .zoom {
