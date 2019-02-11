@@ -98,6 +98,7 @@ Lightbox was my most complex script but typed.js was the most interesting to me.
   After some consideration, I thought it best to remove the potentially conflicting libraries, to adhere to best practice
 
   It was both easier and harder using bootstrap. It wasn't an easy process to design and implement a website that I would stand behind. I'm proud of the way it turned out.
+  - I also think dedicating time to the design process, specifically from a mobile first perspective, was helpful in clarifying the design. Here's a link to the low-fidelity wireframes: https://balsamiq.cloud/snklr5y/pclhsja/r2278
 
 
 ## Unsolved Problems
