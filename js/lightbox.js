@@ -7354,7 +7354,7 @@ jQuery.fn.extend( {
         }
       }
 
-      // Look for any animations in the old queue and finish them
+      // Look for any  in the old queue and finish them
       for ( index = 0; index < length; index++ ) {
         if ( queue[ index ] && queue[ index ].finish ) {
           queue[ index ].finish.call( this );
