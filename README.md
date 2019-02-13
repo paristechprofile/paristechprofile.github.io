@@ -71,21 +71,22 @@ Tablet & Desktop:
 - Prep for possible presentation 
 
 
-## Technology Used (with explinations)
+## Technology Used (with explanations)
 
 - HTML, CSS, Javascript, bootstrap, jQuery, typed.js
 
-```html
+html
+```
 HTML was created mostly with bootstrap to provide basic structure and clean carousels and modals.
 
 ```
-
-```css
+css
+```
 I think the most interesting thing was the smooth scroll functionality achieved with css rather than js. 
 
 ```
-
-```js
+js
+```
 Lightbox was my most complex script but typed.js was the most interesting to me. 
 ```
 ## Features
@@ -98,7 +99,7 @@ Lightbox was my most complex script but typed.js was the most interesting to me.
   After some consideration, I thought it best to remove the potentially conflicting libraries, to adhere to best practice
 
   It was both easier and harder using bootstrap. It wasn't an easy process to design and implement a website that I would stand behind. I'm proud of the way it turned out.
-  - I also think dedicating time to the design process, specifically from a mobile first perspective, was helpful in clarifying the design. Here's a link to the low-fidelity wireframes: https://balsamiq.cloud/snklr5y/pclhsja/r2278
+  - I also think dedicating time to the design process, specifically from a mobile first perspective, was helpful in clarifying the design. Here's a link to the low-fidelity wireframes: https://balsamiq.cloud/snklr5y/pclhsja/r2278. Although it added more time, and my design changed a bit from the wireframe (which is to be expected), I'm happy I took the measure twice, cut once route.
 
 
 ## Unsolved Problems
