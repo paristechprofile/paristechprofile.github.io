@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
   var typed = new Typed('#typed', {
-    strings: [``,``, `Hello, world!`, 'Who am I?', 'I am: creative', 
+    strings: [``, ``, `Hello, world!`, 'Who am I?', 'I am: creative', 
     'I am: useful', 'I am: tenacious', 'I am: thoughtful',
-    'I am: musical', 'I am: curious', 'I am: attentive', 'I am: a minimalist', 
+    'I am: musical', 'I am: a minimalist', 
     `I am:`,`I am:`,`I am:`,`PARIS TAYLOR`],
     typeSpeed: 70,
     backSpeed: 40,

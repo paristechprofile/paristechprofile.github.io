@@ -32,7 +32,7 @@ Cheers!
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon
 - An in-class demo of the site
 
-Personal Deliverables:
+##Personal Deliverables:
 mobile: 
 - 1 primary color and 2 accent colors
 - Modern font 
@@ -87,7 +87,8 @@ I think the most interesting thing was the smooth scroll functionality achieved 
 ```
 js
 ```
-Lightbox was my most complex script but typed.js was the most interesting to me. 
+Lightbox was my most complex library but typed.js was the most interesting to me. I spent hours digging into it's JS to 
+better understand how I could string JS together to achieve fairly complex and intelligent animations
 ```
 ## Features
 - my website features clean scrolls, pleasant styling, and a few js libraries to manage animations and effects.
@@ -100,7 +101,10 @@ Lightbox was my most complex script but typed.js was the most interesting to me.
 
   It was both easier and harder using bootstrap. It wasn't an easy process to design and implement a website that I would stand behind. I'm proud of the way it turned out.
   - I also think dedicating time to the design process, specifically from a mobile first perspective, was helpful in clarifying the design. Here's a link to the low-fidelity wireframes: https://balsamiq.cloud/snklr5y/pclhsja/r2278. Although it added more time, and my design changed a bit from the wireframe (which is to be expected), I'm happy I took the measure twice, cut once route.
+  
+  - While some chose to work specifically outside bootstrap, and found following discovered youtube instructionals challenging, I found it just as (if not more so) to find the right mix of technology to ensure my site remained elegant and maintained exceptional functionality.
 
+  - The only thing I would have changed would have been to add a bit more animation to the floating nav button, or another icon so that it's clear that it's a menu button. I'm not to worried about it because the sleek nature of the site. The opening banner only displays the animation and the interactive button, so from a UX perspective, I believe the button has more pros than cons, in the context of this project
 
 ## Unsolved Problems
 - Still learning how to submit emails via form. But email functionality wasn't an explicit deliverable, so I'd like to review that with the instructor.
